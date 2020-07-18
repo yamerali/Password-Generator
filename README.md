@@ -32,6 +32,6 @@ deadwood
 
 D3@d/o0d
 
-#NOTE
+# NOTE
 
 This is a proof of concept for generating strong passwords. If I ever use this in a project I would optimize the code and increase the dictionary size as well as the symbols available to swap.
